@@ -1,0 +1,14 @@
+{
+  "education": [
+    {
+      "degree": "Master of Science, Computer Science",
+      "institution": "Lodz University of Technology",
+      "duration": "2025 - 2027"
+    },
+    {
+      "degree": "Bachelor of Science, Informatics",
+      "institution": "Czech University of Life Sciences, Prague",
+      "duration": "2021 - 2024"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "skills": {
+    "frontend": [
+      "React 19",
+      "TypeScript",
+      "Next.js",
+      "TanStack Router",
+      "TanStack Query",
+      "React Router",
+      "Redux",
+      "Wagmi",
+      "Vite",
+      "Zod",
+      "Tailwind CSS"
+    ],
+    "backend": [
+      "Node.js",
+      "Express",
+      "GraphQL",
+      "Envio",
+      "MongoDB",
+      "PostgreSQL",
+      "Prisma",
+      "Drizzle",
+      "RESTful APIs"
+    ],
+    "devops": [
+      "Git",
+      "Docker",
+      "Linux",
+      "CI/CD",
+      "AWS",
+      "Vercel",
+      "Nginx",
+      "Webpack",
+      "ESLint",
+      "Prettier",
+      "Jest",
+      "Vitest"
+    ],
+    "productivity": [
+      "Neovim (LSP/DAP)",
+      "OpenCode",
+      "Tmux",
+      "Zsh",
+      "Fzf",
+      "Zoxide",
+      "Yazi",
+      "Shell Scripting"
+    ]
+  }
+}

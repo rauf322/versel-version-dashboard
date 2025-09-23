@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "id": "dropdead-store",
+      "title": "DropDead AI Store",
+      "link": "https://dropdead-e-commerce.vercel.app/",
+      "gitRepo": "https://github.com/rauf322/dropdead-e-commerce",
+      "image": "/images/dropdeadStore.png",
+      "description": "Full-stack e-commerce platform with authentication, PayPal integration, and modern UI components.",
+      "longDescription": "A sophisticated e-commerce application built with Next.js 15, React 19, and TypeScript. Features NextAuth authentication with Prisma adapter for user management, PayPal payment integration for secure transactions, Neon serverless PostgreSQL database with Prisma ORM, and modern UI with Radix UI components and Tailwind CSS 4. Includes comprehensive form handling with React Hook Form and Zod validation, dark mode support with next-themes, toast notifications with Sonner, and full-featured shopping cart functionality. The application demonstrates modern full-stack development with server components, WebSocket support, comprehensive testing with Vitest and Testing Library, and production-ready deployment on Vercel.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Prisma",
+        "NextAuth",
+        "PostgreSQL",
+        "Tailwind CSS",
+        "PayPal API"
+      ]
+    },
+    {
+      "id": "shop-ideas",
+      "title": "Shop Ideas",
+      "gitRepo": "https://github.com/rauf322/fullstack-2",
+      "image": "/images/ideas.png",
+      "link": "https://fullstack-2-two.vercel.app/",
+      "description": "Full-stack e-commerce platform with user authentication, product management, and shopping cart functionality.",
+      "longDescription": "A comprehensive full-stack e-commerce application featuring a React frontend with TanStack Router and TanStack Query for efficient data management, and a Node.js/Express backend with MongoDB. The frontend is built with React 19, TypeScript, and Tailwind CSS 4, providing a modern and responsive user interface. Backend includes JWT-based authentication with secure cookie handling, bcrypt password hashing, and RESTful API endpoints. Features include user registration and login, product browsing and management, shopping cart functionality with real-time updates, and toast notifications with Sonner. Demonstrates modern full-stack development practices with type-safe routing, server state management, and secure authentication patterns.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "TanStack Router",
+        "TanStack Query",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "id": "dotfiles",
+      "title": "dotfiles",
+      "gitRepo": "https://github.com/rauf322/dotfiles",
+      "image": "/images/dotfiles.png",
+      "description": "Personal development environment configuration for macOS and Linux with Neovim, tmux, and terminal customizations.",
+      "longDescription": "A comprehensive dotfiles repository containing my personal development environment setup. Features a fully configured Neovim IDE with LSP, debugging, and Git integration, tmux for terminal multiplexing, Zsh with oh-my-zsh, and macOS-specific tools like Aerospace window manager and Sketchybar. The configuration emphasizes speed, aesthetics, and workflow efficiency with rose-pine theming throughout. Includes setup for btop system monitoring, Yazi file manager, and extensive keyboard shortcuts for productivity. Designed to be portable across macOS and Linux systems while maintaining a consistent development experience.",
+      "technologies": ["Lua", "Shell", "Neovim", "tmux"]
+    },
+    {
+      "id": "shopping-app",
+      "title": "Shopping App",
+      "link": "https://shopping-app-ruddy-omega.vercel.app/",
+      "gitRepo": "https://github.com/rauf322/shopping-app",
+      "image": "/images/shopping-app.png",
+      "description": "Modern e-commerce application with shopping cart functionality, JSON server API, and responsive design.",
+      "longDescription": "A full-featured shopping application built with React, TypeScript, and Vite. Features include product browsing with JSON server API integration, shopping cart management with context providers, and responsive design for seamless shopping across devices. The application demonstrates clean architecture patterns, modern React hooks, TypeScript implementation, and state management best practices for e-commerce platforms. Uses JSON server for mock API data and includes comprehensive product management functionality.",
+      "technologies": ["React", "TypeScript"]
+    },
+    {
+      "id": "crypto-dashboard",
+      "title": "Crypto Dashboard",
+      "link": "https://crypto-dashboard-wine-six.vercel.app/",
+      "gitRepo": "https://github.com/rauf322/crypto-dashboard",
+      "image": "/images/cryptoDashboard.png",
+      "description": "Real-time cryptocurrency tracking dashboard with Chart.js integration and market data visualization.",
+      "longDescription": "A sophisticated cryptocurrency dashboard built with React, TypeScript, and Vite. Features real-time price tracking using cryptocurrency APIs, interactive charts with Chart.js and react-chartjs-2, market data visualization with date adapters, and responsive design for monitoring crypto assets. The application includes React Router for navigation, context providers for state management, and demonstrates modern React patterns with TypeScript implementation. Provides comprehensive portfolio tracking capabilities and efficient data visualization for financial applications.",
+      "technologies": ["React", "TypeScript", "React Router"]
+    },
+    {
+      "id": "user-form",
+      "title": "User Form",
+      "link": "https://service-log.vercel.app/",
+      "gitRepo": "https://github.com/rauf322/user-form",
+      "image": "/images/user-form.png",
+      "description": "Modern user form application with Tailwind CSS styling and component-based architecture.",
+      "longDescription": "A well-structured user form application built with React, TypeScript, and Tailwind CSS. Features modular component architecture with separate input, button, and list item components, demonstrating clean separation of concerns and reusable UI patterns. The application uses Tailwind CSS for modern, responsive styling and includes comprehensive TypeScript types for form handling. Showcases best practices for form management, component composition, and modern CSS-in-JS approaches with utility-first styling.",
+      "technologies": ["React", "TypeScript", "Tailwind CSS"]
+    },
+    {
+      "id": "rioticks",
+      "title": "RIOTICKS",
+      "link": "https://rioticks.vercel.app/",
+      "gitRepo": "https://github.com/rauf322/RIOTICKS.git",
+      "image": "/images/rioticks.png",
+      "description": "Movie and TV show database application with real-time data from external APIs and responsive design.",
+      "longDescription": "A comprehensive entertainment database application built with vanilla JavaScript, HTML, and CSS. Features movie and TV show browsing with external API integration, detailed information pages for individual titles, search functionality across the entertainment database, and responsive design for optimal viewing on all devices. The application demonstrates modern vanilla JavaScript patterns, API data fetching and management, dynamic content rendering, and clean separation of concerns with modular file structure. Includes dedicated pages for movies, TV shows, search results, and detailed item views with social media integration.",
+      "technologies": ["JavaScript", "HTML", "CSS"]
+    }
+  ]
+}

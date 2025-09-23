@@ -1,0 +1,38 @@
+{
+  "experience": [
+    {
+      "title": "Middle+ Frontend Developer",
+      "company": "Blocksquare",
+      "duration": "December 2025 – Present",
+      "link": "https://blocksquare.io/",
+      "achievements": [
+        "Developing blockchain-based real estate tokenization platform using React and Web3 technologies",
+        "Implementing smart contract integrations and wallet connectivity features",
+        "Building responsive, user-friendly interfaces for complex financial operations"
+      ]
+    },
+    {
+      "title": "Middle Frontend Developer",
+      "company": "Freelancing",
+      "duration": "September 2023 – November 2025",
+      "achievements": [
+        "Architected and built Next.js 15 application from scratch using advanced patterns including manual caching, cache tags, and revalidateTag",
+        "Implemented compound component patterns and advanced React composition techniques for highly reusable UI components",
+        "Designed modern frontend architecture combining Feature-Sliced Design (FSD) methodology with custom organizational patterns",
+        "Refactored complex React components into smaller, focused modules reducing component complexity by 40%",
+        "Established type-safe development practices with TypeScript strict mode and Zod validation"
+      ]
+    },
+    {
+      "title": "Junior Developer / UI/UX Designer",
+      "company": "Omega/Vintro",
+      "link": "https://www.linkedin.com/company/vintroagency/posts/?feedView=all",
+      "duration": "December 2022 – September 2023",
+      "achievements": [
+        "Set up Vite build tooling from scratch with optimized HMR and production build configurations",
+        "Architected component-based routing system using React Router with nested routes, protected routes, and lazy loading",
+        "Built responsive, mobile-first UIs using Tailwind CSS ensuring cross-browser compatibility"
+      ]
+    }
+  ]
+}
